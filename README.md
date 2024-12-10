@@ -45,5 +45,5 @@ tampilkan_semua_mahasiswa(data_mahasiswa): Menampilkan semua data mahasiswa.
 
 4. main.py
 
-   
+   File ini adalah file utama yang menjalankan aplikasi. Di dalamnya terdapat fungsi load_data() untuk memuat data dari file JSON dan save_data(data) untuk menyimpan data ke file JSON. Fungsi main() mengatur menu interaksi dengan pengguna.
 
